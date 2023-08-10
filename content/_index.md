@@ -16,13 +16,30 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: tidyverse
           icon: r-project
           icon_pack: fab
         - name: Statistics
           description: 60%
           icon: chart-line
           icon_pack: fas
+        - description: PyViz, Pandas, Keras
+          icon: python
+          icon_pack: fab
+          name: Python
+        - description: Manipulation, DataViz, Modeling
+          icon: chart-bar
+          icon_pack: fas
+          name: Data Analysi
+        - description: Hardware in the Loop / Control toolbox
+          icon: angle-double-right
+          icon_pac: fab
+          name: MATLAB
+        - description: Hardware Oriented Development
+          icon: cube
+          icon_pac: fab
+          name: C++
+
   - block: experience
     content:
       title: Experience
