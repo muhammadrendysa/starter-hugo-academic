@@ -73,3 +73,15 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+
+markup:
+  defaultMarkdownHandler: "goldmark"
+  goldmark:
+    renderer:
+      unsafe: true  # Enable user to embed HTML snippets in Markdown content.
+  highlight:
+    codeFences: false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
