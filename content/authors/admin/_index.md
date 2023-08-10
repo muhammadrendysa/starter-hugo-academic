@@ -73,5 +73,5 @@ email: 'muhammadrendysaputra767@gmail.com'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Saya adalah seorang mahasiswa yang bersemangat dalam mengeksplorasi dunia data science dan artificial intelligence. Dalam perjalanan pendidikan saya, saya telah mendalami konsep-konsep dalam machine learning dan teknik-teknik advanced analytics. Kecintaan saya terhadap pembelajaran membawa saya untuk terus mengasah keterampilan dan pengetahuan dalam bidang ini. Saya menemukan kebahagiaan dalam menggali dan memahami aspek-aspek kompleks di balik data serta menerapkan pengetahuan ini dalam mengatasi tantangan nyata. Di luar dunia akademis, hobi saya yang paling saya nikmati adalah belajar, karena saya percaya bahwa proses belajar tidak pernah berakhir dan membawa kesempatan tak terbatas untuk pertumbuhan dan pencapaian.
 {style="text-align: justify;"}
