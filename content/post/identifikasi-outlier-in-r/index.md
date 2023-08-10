@@ -205,7 +205,7 @@ dan ketiga, serta maksimum) dan pengamatan apa pun yang diklasifikasikan
 sebagai pencilan yang dicurigai dengan menggunakan kriteria rentang
 antar kuartil (interquartile range, IQR).
 
-Kriteria IQR berarti bahwa semua pengamatan di atas **$q_{0.75} + 1.5 \cdot IQR$** atau di bawahnya **$q_{0.25} - 1.5 \cdot IQR$** (dimana **$q_{0.25}$** dan **$q_{0.75}$** masing-masing sesuai dengan kuartil pertama dan kuartil ketiga, dan IQR adalah selisih antara kuartil ketiga dan kuartil pertama.)
+Kriteria IQR berarti bahwa semua pengamatan di atas {{< math >}}$q_{0.75} + 1.5 \cdot \text{IQR}${{< /math >}} atau di bawahnya **$q_{0.25} - 1.5 \cdot IQR$** (dimana **$q_{0.25}$** dan **$q_{0.75}$** masing-masing sesuai dengan kuartil pertama dan kuartil ketiga, dan IQR adalah selisih antara kuartil ketiga dan kuartil pertama.)
 dianggap pencilan potensial oleh R.
 
 Dengan kata lain, semua pengamatan di luar interval berikut akan
