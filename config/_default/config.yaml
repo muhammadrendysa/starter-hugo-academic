@@ -81,7 +81,22 @@ markup:
     renderer:
       unsafe: true  # Enable user to embed HTML snippets in Markdown content.
   highlight:
-    codeFences: false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
+    codeFences: true  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
   tableOfContents:
     startLevel: 2
     endLevel: 3
+
+# Links
+link = "#002d72"
+link_hover = "cfe5f2"
+
+# Menu
+menu_primary = "#1c3058"
+menu_text = "#ffffff"
+menu_text_active = "#7cbcf8"
+menu_title = "#ffffff"
+
+# Home sections
+background = "#ffffff"
+home_section_odd = "rgb(254, 254, 254)"
+home_section_even = "rgb(247, 247, 247)"
