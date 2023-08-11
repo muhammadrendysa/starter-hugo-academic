@@ -36,7 +36,7 @@ interests:
 education:
   courses:
     - course: bachelor's degree in data science
-      institution: Stanford University
+      institution: Sumatra Institute of Technology
       year: 2023
 
 # Social/Academic Networking
@@ -74,4 +74,3 @@ highlight_name: true
 ---
 
 I am a student who is passionate about exploring the world of data science and artificial intelligence. In my educational journey, I have explored concepts in machine learning and advanced analytics techniques. My love for learning leads me to continuously hone my skills and knowledge in this field. I find joy in exploring and understanding the complex aspects behind data and applying this knowledge to real-world challenges. Outside of academia, my most enjoyable hobby is learning, as I believe that the process of learning never ends and brings endless opportunities for growth and achievement.
-{style="text-align: justify;"}
