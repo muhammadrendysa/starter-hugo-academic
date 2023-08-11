@@ -1,9 +1,11 @@
 ---
 title: "Identifikasi_Outlier_dalam_R"
 date: 2023-07-30T01:42:36+07:00
-author: Muhammad Rendy Saputra
+author: admin
 description: Identifikasi keberadaan outlier dalam r
 math: true
+tags:
+  - Wrangling
 ---
 
 ## Identifikasi Outlier dengan r

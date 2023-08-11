@@ -1,8 +1,10 @@
 ---
 title: "Handling_Missing_Data"
 date: 2023-08-02T03:13:32+07:00
-author: Muhammad Rendy Saputra
+author: admin
 description: Handling Missing Data Value in r
+tags:
+  - Wrangling
 ---
 
 ## Handling Missing Data in r

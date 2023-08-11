@@ -1,8 +1,9 @@
 ---
 title: "Data_Visualisation_housing_price_dataset"
 date: 2023-07-29T00:15:20+07:00
-author: Muhammad Rendy Saputra
+author: admin
 description: Data Visualisation With Housing Price Dataset in r
+tags: Visualisation
 ---
 
 # Tentang Dataset

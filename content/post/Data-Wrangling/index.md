@@ -1,8 +1,10 @@
 ---
 title: "Data_Wrangling"
 date: 2023-08-04T13:24:44+07:00
-author: Muhammad Rendy Saputra
+author: admin
 description: Data Wrangling With r
+tags:
+  - Wrangling
 ---
 
 ### 6 Data Wrangling

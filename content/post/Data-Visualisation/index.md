@@ -1,8 +1,10 @@
 ---
 title: "Data_visualisation"
 date: 2023-07-25T06:37:42+07:00
-author: Muhammad Rendy Saputra
+author: admin
 description: 'data visualisation with r'
+tags:
+  - Visualisation
 ---
 
 # 3. Data visualisation

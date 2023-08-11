@@ -1,8 +1,10 @@
 ---
 title: "Identifikasi_Outlier_Dataset_HousingPrice"
 date: 2023-07-31T06:10:28+07:00
-author: Muhammad Rendy Saputra
+author: admin
 description: Identifikasi outlier pada dataset housing price dengan r
+tags: 
+  - Wrangling
 ---
 
 ## Identifikasi Outlier Pada Dataset Housing Price
