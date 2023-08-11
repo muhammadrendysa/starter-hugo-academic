@@ -1,9 +1,10 @@
 ---
 title: "Data_transformation"
 date: 2023-07-25T15:38:02+07:00
-author: Muhammad Rendy Saputra
+author: admin
 description: Data Transformation With r
-image: 
+tags: 
+  - Demo
 ---
 
 ## 5.1 Pendahuluan
