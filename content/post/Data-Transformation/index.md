@@ -3,8 +3,6 @@ title: "Data_transformation"
 date: 2023-07-25T15:38:02+07:00
 author: admin
 description: Data Transformation With r
-tags: 
-  - Demo
 ---
 
 ## 5.1 Pendahuluan
