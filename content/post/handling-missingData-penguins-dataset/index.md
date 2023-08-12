@@ -3,8 +3,6 @@ title: "Handling_MissingData_Penguins_Dataset"
 date: 2023-08-02T03:58:35+07:00
 author: admin
 description: Handling missing data value in penguins dataset
-tags: 
-  - Wrangling
 ---
 
 ## mengatasi nilai yang hilang dalam dataset penguins

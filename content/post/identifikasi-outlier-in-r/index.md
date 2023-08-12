@@ -4,8 +4,6 @@ date: 2023-07-30T01:42:36+07:00
 author: admin
 description: Identifikasi keberadaan outlier dalam r
 math: true
-tags:
-  - Wrangling
 ---
 
 ## Identifikasi Outlier dengan r

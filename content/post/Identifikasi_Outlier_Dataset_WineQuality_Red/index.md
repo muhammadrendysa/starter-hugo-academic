@@ -3,8 +3,6 @@ title: "Identifikasi_Outlier_Dataset_WinQuality_red"
 date: 2023-07-31T19:16:36+07:00
 author: admin
 description: Identifikasi Outlier pada dataset Wine Quality, untuk melihat apakah terdapat nilai anggur yang jauh dari nilai rata-rata pengamatan
-tags: 
-  - Wrangling
 ---
 
 ## Identifikasi Outlier pada dataset winequality red

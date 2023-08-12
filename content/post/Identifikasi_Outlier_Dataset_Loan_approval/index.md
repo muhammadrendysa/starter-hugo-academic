@@ -4,8 +4,6 @@ date: 2023-07-31T00:56:40+07:00
 author: admin
 description: Identifikasi Outlier pada dataset Loan Approval
 math: true
-tags:
-  - Wrangling
 ---
 
 ## Identifikasi Outlier pada Dataset Prediksi Persetujuan Pinjaman
